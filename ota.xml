@@ -110,9 +110,9 @@
             </cheeseburger>
 
             <dumpling>
-                  <maintainer>EsromTech (feat RMarchetto)</maintainer>
+                  <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                   <devicename>Oneplus 5T (dumpling)</devicename>
-                  <filename>toxyc-dumpling-20180616-v1.0-OFFICIAL</filename>
+                  <filename>toxyc-dumpling-20180703-Dev-OFFICIAL</filename>
                   <buildtype>Stable</buildtype>
                   <download>https://androidfilehost.com/?fid=890278863836294507</download>
                   <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/dumpling_changelog.txt</changelog>
